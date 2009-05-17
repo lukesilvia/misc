@@ -3,3 +3,6 @@ youpy
 cho45
 secondlife
 miyagawa
+nipotan
+amachang
+yappo
